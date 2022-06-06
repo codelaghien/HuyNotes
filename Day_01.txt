@@ -1,4 +1,4 @@
-Install + Prepare
+Install + Prepare:
 1. Node JS
 2. VS Code
 3. npm
