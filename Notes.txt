@@ -1,0 +1,27 @@
+Clone a project:
+git clone https://github.com/codelaghien/HuyNotes
+git status
+
+Nếu git chưa có config trong máy: 
+git config --global user.name "FIRST_NAME LAST_NAME"
+git config --global user.email "MY_NAME@example.com"
+
+Commit and Push trong DOS:
+git add .
+git commit -am "chú thích"
+git push
+
+Create new branch:
+git checkout -b NewBranch
+
+Install Angular:
+npm install -g @angular/cli
+
+Nếu cần thì install TypeScript:
+npm install -g typescript
+
+New Angular Project:
+ng new ProjectName
+cd ProjectName
+npm start
+
