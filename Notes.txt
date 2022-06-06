@@ -1,5 +1,5 @@
 Clone a project:
-git clone https://github.com/codelaghien/HuyNotes
+git clone https://github.com/codelaghien/HuyNotes.git
 git status
 
 Nếu git chưa có config trong máy: 
