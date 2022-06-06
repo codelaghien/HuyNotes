@@ -28,3 +28,6 @@ ng new ProjectName
 cd ProjectName
 npm start
 
+Microsoft Teams for Home:
+https://www.microsoft.com/en-us/microsoft-teams/compare-microsoft-teams-options-b?=&ef_id=Cj0KCQjwheyUBhD-ARIsAHJNM-NMgEcRZePGFywya_R9vOAAhR2Lpqffa1TK_CrpoTL7bI_fxOXuNs0aAsbfEALw_wcB%3aG%3as&OCID=AID2202143_SEM_Cj0KCQjwheyUBhD-ARIsAHJNM-NMgEcRZePGFywya_R9vOAAhR2Lpqffa1TK_CrpoTL7bI_fxOXuNs0aAsbfEALw_wcB%3aG%3as&gclid=Cj0KCQjwheyUBhD-ARIsAHJNM-NMgEcRZePGFywya_R9vOAAhR2Lpqffa1TK_CrpoTL7bI_fxOXuNs0aAsbfEALw_wcB&activetab=pivot:primaryr3
+
