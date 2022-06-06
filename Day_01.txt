@@ -3,6 +3,7 @@ Install + Prepare
 2. VS Code
 3. npm
 4. git
-5. GitHub
-6. Angular history: Strong typed, Tree Shaking
-7. Some git commands: git clone, status, add, commit, push, pull, checkout, ...
+5. GitHub 
+6. Some git commands: git clone, status, add, commit, push, pull, checkout, ... 
+7. Angular history: Strong typed, Tree Shaking
+8. Project structure 
