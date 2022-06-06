@@ -20,6 +20,9 @@ npm install -g @angular/cli
 Nếu cần thì install TypeScript:
 npm install -g typescript
 
+Check version:
+ng --version
+
 New Angular Project:
 ng new ProjectName
 cd ProjectName
